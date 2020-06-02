@@ -1,1 +1,3 @@
-# Snowflake_top_users_on_usage
+# Snowflake top users on usage
+
+This is small project to create a daily script that could extract usage statistics per user
